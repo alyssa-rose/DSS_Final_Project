@@ -1,5 +1,6 @@
 # Data Sources
 1. https://www.unhcr.org/refugee-statistics/download/?url=1AVu
+2. https://www.internal-displacement.org/database/displacement-data
 
 ## Brazil
 1. https://migracoes.igarape.org.br/explore
