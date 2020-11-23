@@ -2,6 +2,7 @@
 1. https://www.unhcr.org/refugee-statistics/download/?url=1AVu
 2. https://www.internal-displacement.org/database/displacement-data
 3. https://migrationdataportal.org/themes/forced-migration-or-displacement#data-sources
+4. https://www.ncdc.noaa.gov/cag/global/time-series/southAmerica/land/12/8/1940-2020?trend=true&trend_base=10&begtrendyear=1880&endtrendyear=2020&filter=true&filterType=binomial
 
 ### Brazil
 1. https://migracoes.igarape.org.br/explore
