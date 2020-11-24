@@ -17,3 +17,6 @@
 ### Brazil
 1. [Climatic characteristics of the 2010-2016 drought in the semiarid Northeast Brazil region](https://www.scielo.br/scielo.php?pid=S0001-37652017005019115&script=sci_arttext)
 2. [Frequency, duration and severity of drought in the Semiarid Northeast Brazil region](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.5225?casa_token=lVEOWilJAfYAAAAA%3AS6Gnqrdz4KgkGbgw_CamC_7mic-MEckEPW3PVNj3o5PHHSK7mxsLI4JO5acHg49oEcYp78kw77ZXAw)
+
+
+https://www.sciencedirect.com/science/article/pii/S0957417419302180?casa_token=QiIx4N1XdxUAAAAA:Wjww-ZWPjSgGriWdz0Bo8bihRgAp9C-nnNdgXUM3UW-9SYvG6ghLS6itv452hD4ebfrtunXf
