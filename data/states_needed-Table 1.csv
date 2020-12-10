@@ -1,0 +1,151 @@
+,index,Unnamed: 0,ISO3,Name,Year,Start Date,Event Name,Hazard Category,Hazard Type,New Displacements,
+0,728,729,BRA,Brazil,2008,6/5/08,,Weather related,Storm,25000,
+1,729,730,BRA,Brazil,2008,12/1/08,,Weather related,Flood,14293,
+2,730,731,BRA,Brazil,2008,2/2/08,,Weather related,Flood,1435,
+3,731,732,BRA,Brazil,2008,11/22/08,,Weather related,Flood,78707,
+4,732,733,BRA,Brazil,2008,3/30/08,,Weather related,Flood,190000,
+5,733,734,BRA,Brazil,2009,1/1/09,,Weather related,Flood,500000,
+6,734,735,BRA,Brazil,2009,1/1/09,,Weather related,Flood,20000,
+7,735,736,BRA,Brazil,2009,1/1/09,,Weather related,Storm,450,
+8,736,737,BRA,Brazil,2009,1/1/09,,Weather related,Flood,,
+9,737,738,BRA,Brazil,2009,1/1/09,,Weather related,Flood,,
+10,738,739,BRA,Brazil,2009,1/1/09,,Weather related,Flood,,
+11,739,740,BRA,Brazil,2009,1/1/09,,Weather related,Flood,,
+12,740,741,BRA,Brazil,2009,1/1/09,,Weather related,Wet mass movement,,
+13,741,742,BRA,Brazil,2009,1/1/09,,Weather related,Flood,2500,
+14,742,743,BRA,Brazil,2010,1/1/10,,Weather related,Extreme temperature,,
+15,743,744,BRA,Brazil,2010,1/1/10,,Weather related,Flood,50000,
+16,744,745,BRA,Brazil,2010,1/1/10,,Weather related,Flood,156497,
+17,745,746,BRA,Brazil,2010,1/1/10,,Weather related,Flood,,
+18,746,747,BRA,Brazil,2010,1/1/10,,Weather related,Flood,24000,
+19,747,748,BRA,Brazil,2011,1/1/11,,Weather related,Flood,13000,
+20,748,749,BRA,Brazil,2011,1/1/11,,Weather related,Flood,15000,
+21,749,750,BRA,Brazil,2011,1/1/11,,Weather related,Flood,100000,
+22,750,751,BRA,Brazil,2011,1/1/11,,Weather related,Flood,31000,
+23,751,752,BRA,Brazil,2011,1/1/11,,Weather related,Flood,500,
+24,752,753,BRA,Brazil,2011,1/1/11,,Weather related,Flood,10000,
+25,753,754,BRA,Brazil,2012,1/1/12,,Weather related,Wet mass movement,35000,
+26,754,755,BRA,Brazil,2012,1/1/12,,Weather related,Storm,,
+27,755,756,BRA,Brazil,2013,12/17/13,Espirito Santo floods,Weather related,Flood,61379,ES
+28,756,757,BRA,Brazil,2013,12/17/13,Minas Gerias floods,Weather related,Flood,12200,MG
+29,757,758,BRA,Brazil,2013,12/7/13,Bahia and Rio de Janeiro floods,Weather related,Flood,3300,RJ
+,,,,,2013,12/7/13,Bahia and Rio de Janeiro floods,Weather related,Flood,3300,BA
+30,758,759,BRA,Brazil,2013,1/1/13,Rio de Janeiro floods,Weather related,Flood,2076,RJ
+31,759,760,BRA,Brazil,2014,1/12/14,Sau Paolo flooding,Weather related,Flood,300,SP
+32,760,761,BRA,Brazil,2014,1/1/14,Santa Caterina state floods,Weather related,Flood,6000,SC
+33,761,762,BRA,Brazil,2014,1/1/14,Rio Grande do Sul state floods,Weather related,Flood,4600,RS
+34,762,763,BRA,Brazil,2014,6/7/14,Paran├á river overflow,Weather related,Flood,40000,PR
+35,763,764,BRA,Brazil,2014,4/1/14,Humait├á-Am floods caused by Madeira river,Weather related,Flood,19413,AM
+36,764,765,BRA,Brazil,2014,2/8/14,Rond├┤nia┬ástate floods caused by Madeira river,Weather related,Flood,10000,RO
+37,765,766,BRA,Brazil,2014,1/9/14,Espirito Santo and Minas Gerais states flooding,Weather related,Flood,70000,ES 
+38,766,767,BRA,Brazil,2015,4/20/15,Xanxer├¬ tornado,Weather related,Storm,1000,SC
+39,767,768,BRA,Brazil,2015,7/14/15,Flooding in Southern Brazil,Weather related,Flood,38740,
+40,768,769,BRA,Brazil,2015,12/1/15,Flooding in the Southern Cone,Weather related,Flood,6481,
+41,769,770,BRA,Brazil,2015,2/23/15,Overflow of River Acre,Weather related,Flood,13251,AC
+42,770,771,BRA,Brazil,2016,1/1/16,Southern regions floods,Weather related,Flood,13562,
+43,771,772,BRA,Brazil,2017,5/25/17,"Brazil: Uruguay, Ca├¡ and Taquari River floods - Rio Grande do Sul - 25/05/2017",Weather related,Flood,2600,RS
+44,772,773,BRA,Brazil,2017,5/26/17,Brazil: Floods - Pernambuco and Alagoas - 26/05/2017,Weather related,Flood,30173.5,PE
+44,772,773,BRA,Brazil,2017,5/26/17,Brazil: Floods - Pernambuco and Alagoas - 26/05/2017,Weather related,Flood,30173.5,AL
+45,773,774,BRA,Brazil,2017,1/5/17,Brazil: Rolante and Dos Sinos Rivers floods - several municipalities in Rio Grande do Sul - 05/01/2017,Weather related,Flood,7920,RS
+46,774,775,BRA,Brazil,2018,2/10/18,Brazil: heavy rainfall causing floods - Minas Gerais - 10/02/2018,Weather related,Flood,561,MG
+47,775,776,BRA,Brazil,2018,1/1/18,Brazil - Storms - 2018,Weather related,Storm,21042,
+48,776,777,BRA,Brazil,2018,3/20/18,Brazil: flash flood - Sao Paulo State - 20/03/2018,Weather related,Flood,1000,SP
+49,777,778,BRA,Brazil,2018,1/1/18,Brazil - Floods - 2018,Weather related,Flood,60316,
+50,778,779,BRA,Brazil,2018,1/1/18,Brazil - Droughts - 2018,Weather related,Drought,2358,
+51,779,780,BRA,Brazil,2018,1/1/18,Brazil - Landslides - 2018,Weather related,Wet mass movement,639,
+52,780,781,BRA,Brazil,2019,9/11/19,Brazil: Wildfires - Mato Grosso - 11/09/2019,Weather related,Wildfire,60,MT
+53,781,782,BRA,Brazil,2019,1/1/19,"Brazil: Storm - Espirito Santo (Santa Leopoldina, S├úo Gabriel da Palha) - (1 Jan - 28 Feb)",Weather related,Storm,10,ES
+54,782,783,BRA,Brazil,2019,3/1/19,Brazil: Floods - Bahia (12 Municipalities) - (1 Mar - 30 Jun),Weather related,Flood,2877,BA
+55,783,784,BRA,Brazil,2019,1/1/19,Brazil: Floods - Rio Grabde do Norte (Touros) - 1 Jan - 30 June,Weather related,Flood,173,RN
+56,784,785,BRA,Brazil,2019,9/1/19,Brazil: Storm - Amazonas - 01/09/2019,Weather related,Storm,105,AM
+57,785,786,BRA,Brazil,2019,1/1/19,"Brazil: Floods - Pernambuco (Amaraji, Barreiros and Camaragibe) - 1 Jan - 30 June",Weather related,Flood,3900,PE
+58,786,787,BRA,Brazil,2019,1/1/19,Brazil: Floods - Amap├í (Ferreira Gomes) - 01/01/2019,Weather related,Flood,100,AP
+59,787,788,BRA,Brazil,2019,10/28/19,Brazil: Storms - Rio de Janeiro - 28/10/2019,Weather related,Storm,18492,RJ
+60,788,789,BRA,Brazil,2019,12/3/19,Brazil: Storms - Minas Gerais - 03/12/2019,Weather related,Storm,102,MG
+61,789,790,BRA,Brazil,2019,1/1/19,Brazil: Floods - Goias (Cezarina) - (01 Jan - 28 Feb),Weather related,Flood,60,GO
+62,790,791,BRA,Brazil,2019,9/13/19,Brazil: Storms - Mato Grosso Sul - 13/09/2019,Weather related,Storm,170,MS
+63,791,792,BRA,Brazil,2019,7/1/19,Brazil: Landslides - Santa Catarina - 01/07/2019,Weather related,Wet mass movement,13,SC
+64,792,793,BRA,Brazil,2019,3/1/19,"Brazil: Floods - Cear├í (Barroquinha, Chaval, Santana do Cariri  and Tiangu├í) - (1 Mar - 30 Jun)",Weather related,Flood,94,CE
+65,793,794,BRA,Brazil,2019,12/28/19,Brazil: Storms - Mato Grosso do Sul - 28/12/2019,Weather related,Storm,36,MS
+66,794,795,BRA,Brazil,2019,9/23/19,Brazil: Storms - Parana - 23/09/2019,Weather related,Storm,593,PR
+67,795,796,BRA,Brazil,2019,10/1/19,Brazil: Floods - Espirito Santo - 01/10/2019,Weather related,Flood,1688,ES
+68,796,797,BRA,Brazil,2019,9/13/19,Brazil: Wildfires - Moto Grosso do Sul - 13/09/2019,Weather related,Wildfire,5,MS
+69,797,798,BRA,Brazil,2019,11/26/19,Brazil: Coastal Erosion - Mato Grosso - 26/11/2019,Weather related,Wet mass movement,200,MT
+70,798,799,BRA,Brazil,2019,1/1/19,"Brazil: Drought - Piaui (Santana do Piau├¡, S├úo Raimundo Nonato and Vila Nova do Piau├¡) - (1 Jan - 30 June)",Weather related,Drought,528,PI
+71,799,800,BRA,Brazil,2019,12/31/19,Brazil: Landslides - Espirito Santo - 31/12/2019,Weather related,Wet mass movement,6,ES
+72,800,801,BRA,Brazil,2019,11/23/19,Brazil: Floods - Rio de Janeiro - 23/11/2019,Weather related,Flood,221,RJ
+73,801,802,BRA,Brazil,2019,1/1/19,Brazil: Floods - Rondonia (7 Municipalities) - 1 Jan - 30 June,Weather related,Flood,611,RO
+74,802,803,BRA,Brazil,2019,7/12/19,Brazil: Floods - Bahia (01/07/2019),Weather related,Flood,3305,BA
+75,803,804,BRA,Brazil,2019,3/1/19,Brazil: Floods - Maranh├úo (48 Municipalities) - (1 Mar - 30 Jun),Weather related,Flood,30960,MA
+76,804,805,BRA,Brazil,2019,9/1/19,Brazil: Floods (Acre) - 01/09/2019,Weather related,Flood,187,AC
+77,805,806,BRA,Brazil,2019,1/1/19,Brazil: Floods - Sao Paulo (26 Municipalities) - 1 Jan - 30 June,Weather related,Flood,35746,SP
+78,806,807,BRA,Brazil,2019,9/1/19,Brazil: Pre-emptive evacuation - Brazil - 01/09/2019,Weather related,Flood,1419,
+79,807,808,BRA,Brazil,2019,11/11/19,Brazil: Costal Erosion - Espirito Santo - 11/11/2019,Weather related,Wet mass movement,2,ES
+80,808,809,BRA,Brazil,2019,1/1/19,Brazil: Floods - Rio Grande do Sul (31 Municipalities) - 1 Jan - 30 June,Weather related,Flood,9736,RN
+81,809,810,BRA,Brazil,2019,8/27/19,Brazil: Floods - Par├í -27/08/2019,Weather related,Flood,121,PA
+82,810,811,BRA,Brazil,2019,1/1/19,"Brazil: Floods - Piaui (Luzil├óndia, Juazeiro do Piau├¡, Lu├¡s Correia, Parna├¡ba  and Teresina) - 1 Jan - 30 June",Weather related,Flood,32621,PI
+83,811,812,BRA,Brazil,2019,10/1/19,Brazil: Coastal Erosion - Cear├í - 01/20/2019,Weather related,Wet mass movement,40,CE
+84,812,813,BRA,Brazil,2019,1/1/19,Brazil: Floods - Parana  (Guaraque├ºaba  and Rio Bom) - 1 Jan - 30 June,Weather related,Flood,71,PR
+85,813,814,BRA,Brazil,2019,7/15/19,Brazil: Floods - Sergipe - 15/07/2019,Weather related,Flood,78,SE
+86,814,815,BRA,Brazil,2019,1/1/19,"Brazil: Floods - Mato Grosso (Aripuan├ú,  Barra do Bugres, Dom Aquino, Juscimeira, Vila Rica) - 1Jan - 30 June",Weather related,Flood,206,MT
+87,815,816,BRA,Brazil,2019,1/1/19,Brazil: Drought - Para├¡ba (├ügua Branca) - 1 Jan - 30 June,Weather related,Drought,5388,PB
+88,816,817,BRA,Brazil,2019,12/12/19,Brazil: Floods - Pernambuco - 12/12/2019,Weather related,Flood,104,PE
+89,817,818,BRA,Brazil,2019,1/1/19,Brazil: Drought -  Alagoas (Traipu) - (1 Jan - 28 Feb),Weather related,Drought,38,AL
+90,818,819,BRA,Brazil,2019,1/1/19,Brazil: Floods -  Acre (Cruzeiro do Sul) - (1Jan - 28 Feb),Weather related,Flood,3482,AC
+91,819,820,BRA,Brazil,2019,12/20/19,Brazil: Landslides - Minas Gerais - 20/12/2019,Weather related,Wet mass movement,32,MG
+92,820,821,BRA,Brazil,2019,1/1/19,Brazil: Storm- Mato Grosso do Sul (Bela Vista) - 1 Jan - 30 June,Weather related,Storm,4,MS
+93,821,822,BRA,Brazil,2019,1/1/19,Brazil: Floods - Minas Gerais (Santos Dumont) -  (01 Jan - 28 Feb),Weather related,Flood,1245,MG
+94,822,823,BRA,Brazil,2019,7/29/19,Brazil: Storms - Rio Grande do Sul - 29/07/2019,Weather related,Storm,2427,RS
+95,823,824,BRA,Brazil,2019,5/1/19,Brazil: Floods - Vila Velha (Espirito Santo) - 01/05/2019,Weather related,Flood,484,ES
+96,824,825,BRA,Brazil,2019,11/13/19,Brazil: Floods - Espirito Santo (5 municipalities) - 13/11/2019,Weather related,Flood,95,ES
+97,825,826,BRA,Brazil,2019,1/1/19,Brazil: Storm- Parana  (Figueira) - 1 Jan - 30 June,Weather related,Storm,80,PR
+98,826,827,BRA,Brazil,2019,5/1/19,"Brazil: Floods -Sim├╡es Filho, Lauro de Freitas  (Bahia) - 01/05/2019",Weather related,Flood,1922,BA
+99,827,828,BRA,Brazil,2019,8/6/19,Brazil: Floods - Roraima - 06/08/2019,Weather related,Storm,32,RR
+100,828,829,BRA,Brazil,2019,1/1/19,Brazil: Floods - Santa Catarina (43 Municipalities) - 1 Jan - 30 June,Weather related,Flood,11933,SC
+101,829,830,BRA,Brazil,2019,5/21/19,Brazil: Floods - Morros (Maranhao) - 21/05/2019,Weather related,Flood,450,MA
+102,830,831,BRA,Brazil,2019,3/1/19,Brazil: Floods - Amazonas (37 Municipalities) - (01/03/19 - 30/06/19),Weather related,Flood,42711,AM
+103,831,832,BRA,Brazil,2019,1/1/19,Brazil: Storm - Bahia (Santa Cruz da Vit├│ria) - (1 Jan - 28 Feb),Weather related,Storm,200,BA
+104,832,833,BRA,Brazil,2019,11/26/19,Brazil: Floods and Landslides - Bahia (Salvador) - 26/11/2019,Weather related,Flood,300,BA
+105,833,834,BRA,Brazil,2019,1/1/19,Brazil: Flood- Bahia (Vit├│ria da Conquista) - 01/01/2019,Weather related,Flood,200,BA
+106,834,835,BRA,Brazil,2019,1/25/19,Brazil: Dam collapse - 25/01/2019,Weather related,Flood,700,
+107,835,836,BRA,Brazil,2019,10/14/19,Brazil: Storms - Santa Catarina - 14/10/2019,Weather related,Storm,51,SC
+108,836,837,BRA,Brazil,2019,9/20/19,Brazil: Cyclone - Santa Catarina - 20/09/2019,Weather related,Storm,3,SC
+109,837,838,BRA,Brazil,2019,7/26/19,Brazil: Landslides - 26/07/2019,Weather related,Wet mass movement,481,
+110,838,839,BRA,Brazil,2019,7/17/19,Brazil: Storms - Sergipe - 17/07/2019,Weather related,Storm,56,SE
+111,839,840,BRA,Brazil,2019,10/14/19,Brazil: Storms - Mato Grosso - 14/10/2019,Weather related,Storm,21,MT
+112,840,841,BRA,Brazil,2019,3/1/19,Brazil: Landslide - Minas Gerais (Monte Belo) - (1 Mar - 30 Jun),Weather related,Wet mass movement,8936,MG
+113,841,842,BRA,Brazil,2019,3/1/19,Brazil: Floods - Amap├í (Vit├│ria do Jari) - (1 Mar - 30 Jun),Weather related,Flood,586,AP
+114,842,843,BRA,Brazil,2019,1/1/19,Brazil: Landslides -  Acre (Marechal Thaumaturgo) -  01/01/2019,Weather related,Flood,142,AC
+115,843,844,BRA,Brazil,2019,12/11/19,Brazil: Landslides - Pernambuco - 11/12/2019,Weather related,Wet mass movement,782,PE
+116,844,845,BRA,Brazil,2019,1/1/19,Brazil: Floods - Para (63 Municipalities) - 01/01/2019-30/06/2019,Weather related,Flood,43266,PA
+117,845,846,BRA,Brazil,2019,1/1/19,Brazil: Storm - Rio Grabde do Sul (Gentil and Uruguaiana) - 1 Jan - 30 June,Weather related,Storm,39,RS
+118,846,847,BRA,Brazil,2019,1/1/19,"Brazil: Storm - Santa Catarina (I├ºara,  Meleiro and Pescaria Brava) - 1 Jan - 30 June",Weather related,Storm,20,SC
+119,847,848,BRA,Brazil,2019,7/26/19,Brazil: Coastal Erosion - Santa Catarina - 26/07/2019,Weather related,Wet mass movement,2,SC
+120,848,849,BRA,Brazil,2019,7/22/19,Brazil: Floods -  Pernambuco - 22/07/2019,Weather related,Flood,3156,PE
+121,849,850,BRA,Brazil,2019,11/16/19,Brazil: Floods and Landslides - Espirito Santo - 16/11/2019,Weather related,Flood,1690,ES
+122,850,851,BRA,Brazil,2019,1/1/19,"Brazil: Landslide - Par├í ( Alenquer, ├ôbidos, Parauapebas, Tucuru├¡) - (1Jan - 30 June)",Weather related,Wet mass movement,70,PB
+123,851,852,BRA,Brazil,2019,8/6/19,Brazil: Drought - 06/08/2019,Weather related,Drought,160,
+124,852,853,BRA,Brazil,2019,7/26/18,Brazil: Storms - Pernambuco - 26/07/2019,Weather related,Storm,573,PE
+125,853,854,BRA,Brazil,2019,1/1/19,Brazil: Storm-  Para  (Curralinho and Xinguara) - 1 Jan - 30 June,Weather related,Storm,19,PA
+126,854,855,BRA,Brazil,2019,7/4/19,Brazil: Storms - Maranh├úo - 04/07/2019,Weather related,Storm,78,MA
+127,855,856,BRA,Brazil,2019,11/19/19,Brazil: Storms - Rio de Janeiro - 19/11/2019,Weather related,Storm,379,RJ
+128,856,857,BRA,Brazil,2019,1/1/19,Brazil: Floods - Amazonas (7 Municipalities) - (01 Jan- 28 Feb),Weather related,Flood,4634,AM
+129,857,858,BRA,Brazil,2019,10/27/19,Brazil: Storms - Minas Gerais - 27/10/2019,Weather related,Storm,3372,MG
+130,858,859,BRA,Brazil,2019,1/1/19,Brazil: Floods - Rio de Janeiro (15 Municipalities) - 1 Jan - 30 June,Weather related,Flood,8063,RJ
+131,859,860,BRA,Brazil,2019,6/13/19,Brazil: Floods - Pernamburo - 17/06/2019,Weather related,Flood,50,PE
+132,860,861,BRA,Brazil,2019,11/14/19,Brazil: Landslides - Espirito Santo - 14/11/2019,Weather related,Wet mass movement,385,ES
+133,861,862,BRA,Brazil,2019,1/1/19,Brazil: Landslide - Amazonas ( S├úo Paulo de Oliven├ºa) - - (01 Jan- 28 Feb),Geophysical,Dry mass movement,80,AM
+134,862,863,BRA,Brazil,2019,1/1/19,"Brazil: Floods - Mato Grosso do Sul (Parana├¡ba, Bela Vista, Caracol, Coronel Sapucaia, Itapor├ú, Mundo Novo and Porto Murtinho) - 1Jan - 30 June",Weather related,Flood,222,MS
+135,863,864,BRA,Brazil,2019,3/1/19,Brazil: Drought -  Alagoas (Traipu) - (1 Mar - 30 Jun),Weather related,Drought,32,AL
+136,864,865,BRA,Brazil,2019,1/1/19,"Brazil: Landslides - Santa Catarina (Doutor Pedrinho, Luis Alves) - 1Jan - 30 June",Weather related,Wet mass movement,11,SC
+137,865,866,BRA,Brazil,2019,1/1/19,Brazil: Landslides - Sergipe (Aracaju) - 1Jan - 30 June,Weather related,Wet mass movement,36,SE
+138,866,867,BRA,Brazil,2019,11/8/19,Brazil: Floods - Rio Grande do Sul - 08/11/2019,Weather related,Flood,172,RS
+139,867,868,BRA,Brazil,2019,1/1/19,Brazil: Landslides - Sao Paulo (Rio Grande da Serra) - 1Jan - 30 June,Weather related,Wet mass movement,10,SP
+140,868,869,BRA,Brazil,2019,8/23/19,Brazil: Storms - Par├í - 23/08/2019,Weather related,Storm,123,PB
+141,869,870,BRA,Brazil,2019,1/1/19,"Brazil: Storm-  Rio de Janeiro  (Bom Jesus do Itabapoana, Cantagalo and Valen├ºa) - 1 Jan - 30 June",Weather related,Storm,39,RJ
+142,870,871,BRA,Brazil,2019,3/1/19,Brazil: Floods - Esp├¡rito Santo (8 Municipalities) - (1 Mar - 30 Jun),Weather related,Flood,591,ES
+143,871,872,BRA,Brazil,2019,10/27/19,Brazil: Floods - Minas Gerais -27/10/2019,Weather related,Flood,231,MG
+144,872,873,BRA,Brazil,2019,3/1/19,Brazil: Floods - Minas Gerais (6 Municipalities) - (1 Mar - 30 Jun),Weather related,Flood,10,MG
+145,873,874,BRA,Brazil,2019,12/29/19,Brazil: Floods - Par├í - 29/12/2019,Weather related,Flood,3,PB
+146,874,875,BRA,Brazil,2019,1/1/19,Brazil: Floods - Cear├í - 01/01/2019,Weather related,Flood,9,CE
+147,875,876,BRA,Brazil,2019,8/22/19,Brazil: Storms - Minas Gerais - 22/08/2019,Weather related,Storm,24,MG
